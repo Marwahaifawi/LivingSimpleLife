@@ -1,0 +1,12 @@
+.recentPostsContainer{
+    border: 20px solid #efefef;
+    margin-bottom: 2em;
+    padding: 1em;
+    text-align: start;
+}
+.widget-recent-post{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #707070;
+    margin-bottom: 1em;
+}

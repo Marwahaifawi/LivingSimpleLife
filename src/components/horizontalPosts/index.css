@@ -1,0 +1,18 @@
+.horizontalPostsContainer{
+    display: flex;
+    margin-bottom: 2em;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: start;
+}
+.article-recent-secondary{
+    width: 30%;
+
+}
+.article-recent-main{
+    width: 68%;
+
+}
+.horizontalPostsContainer img {width: 100%;
+    min-height: 250px;
+    object-fit: cover;}

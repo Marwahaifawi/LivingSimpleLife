@@ -1,0 +1,14 @@
+/* Layout */
+.headerContainer {
+    width: 100%;
+    background: #f8f8f8;
+    margin-bottom: 3em;
+}
+
+.limiterWidth {
+    width: 90%;
+    max-width: 900px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}

@@ -1,0 +1,7 @@
+.article-body{
+    text-align: start;
+}
+.article-body a {
+    color: #1792d2;
+    text-decoration: underline;
+}

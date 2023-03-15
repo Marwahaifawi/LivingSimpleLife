@@ -1,0 +1,17 @@
+li {
+    margin-left: 2em;
+}
+
+li a {
+    text-decoration: none;
+    color: #707070;
+    font-weight: 700;
+    cursor: pointer;
+    padding: .25em 0;
+}
+
+li a:hover,
+li a:focus {
+    color: #1792d2;
+
+}

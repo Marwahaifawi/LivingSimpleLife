@@ -1,0 +1,11 @@
+.footerContainer {
+    background-color: #143774;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 3em;
+}
+footer p{
+    margin: 0;
+    opacity: 54%;
+
+}
