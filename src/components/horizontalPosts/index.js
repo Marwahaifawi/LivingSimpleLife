@@ -1,6 +1,6 @@
 import React from "react";
 import ImageInfo from "../imageInfo";
-import MainTitle from "../MainTitle";
+import MainTitle from "../mainTitle";
 import Paragraph from "../paragraph";
 import SubTitle from "../subTitle";
 import Image from "../../assets/images/food.jpg";

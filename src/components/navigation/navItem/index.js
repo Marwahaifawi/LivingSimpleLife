@@ -1,8 +1,8 @@
 import React from 'react'
 import './index.css'
-const navItem = () => {
+const NavItem = () => {
   return (
     <li><a href="">About Me</a></li>
     )
 }
-export default navItem
+export default NavItem

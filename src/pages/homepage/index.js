@@ -1,7 +1,7 @@
  import React from 'react'
  import Header from "../../components/header"
  import MainContent from "../../components/mainHomePageContent"
- import Footer from "../../components/footer"
+ import Footer from "../../components/Footer"
  import './index.css'
  const HomePage = () => {
    return (
@@ -10,8 +10,6 @@
     <MainContent/>
     <Footer/>
     </div>
-    
    )
  }
- 
  export default HomePage
