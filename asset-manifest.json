@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/LivingSimpleLife/static/css/main.d8cd304a.css",
+    "main.js": "/LivingSimpleLife/static/js/main.1f6f6776.js",
+    "static/js/787.f237c700.chunk.js": "/LivingSimpleLife/static/js/787.f237c700.chunk.js",
+    "static/media/food.jpg": "/LivingSimpleLife/static/media/food.0dce750972c5a4f57ccd.jpg",
+    "static/media/life.jpg": "/LivingSimpleLife/static/media/life.50595b632589aea0b5eb.jpg",
+    "static/media/about-me.jpg": "/LivingSimpleLife/static/media/about-me.9141b009980ea6032498.jpg",
+    "static/media/deco.jpg": "/LivingSimpleLife/static/media/deco.0f5a100426bcc5606b2e.jpg",
+    "index.html": "/LivingSimpleLife/index.html",
+    "main.d8cd304a.css.map": "/LivingSimpleLife/static/css/main.d8cd304a.css.map",
+    "main.1f6f6776.js.map": "/LivingSimpleLife/static/js/main.1f6f6776.js.map",
+    "787.f237c700.chunk.js.map": "/LivingSimpleLife/static/js/787.f237c700.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8cd304a.css",
+    "static/js/main.1f6f6776.js"
+  ]
+}
